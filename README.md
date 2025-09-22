@@ -43,5 +43,3 @@ The dataset includes the following key features:
 🔹 **Mini Project** – built as part of machine learning practice to understand regression modeling and dataset handling
 
 ---
-
-Do you want me to also add a **“How to Run” section** (with Python libraries used and steps to execute) so it looks complete for GitHub?
